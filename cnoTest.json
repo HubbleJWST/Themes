@@ -1,0 +1,19 @@
+{
+  "name": "cnoTest",
+  "description": "tests for cnowii",
+  "authors": [
+    {
+      "name": "cnowii",
+      "id": "620441824166805524"
+    }
+  ],
+
+  "theme_color_map": {
+    "BACKGROUND_PRIMARY": ["#303338", "#303338"],
+    "HEADER_PRIMARY": ["#FFFF00", "#FFFF00"]
+  },
+
+  "colours": {
+    "PRIMARY_DARK": "#303338"
+  }
+}
