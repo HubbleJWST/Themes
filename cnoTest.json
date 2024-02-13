@@ -10,7 +10,8 @@
 
   "theme_color_map": {
     "BACKGROUND_PRIMARY": ["#303338", "#303338"],
-    "HEADER_PRIMARY": ["#FFFF00", "#FFFF00"]
+    "HEADER_PRIMARY": ["#89cff0", "#89cff0"],
+    "HEADER_SECONDARY": ["#FFFF00", "#FFFF00"]
   },
 
   "colours": {
