@@ -9,13 +9,14 @@
   ],
 
   "theme_color_map": {
-    "BACKGROUND_PRIMARY": ["#303338", "#303338"],
+    "BACKGROUND_PRIMARY": ["#1C1D22", "#1C1D22"],
     "HEADER_PRIMARY": ["#89cff0", "#89cff0"],
-    "HEADER_SECONDARY": ["#A2D1E7", "#A2D1E7"],
-    "TEXT_NORMAL": ["#FFFF00", "#FFFF00"]
+    "HEADER_SECONDARY": ["#D0E8F3", "#D0E8F3"],
+    "TEXT_NORMAL": ["#D0E8F3", "#D0E8F3"],
+    "TEXT_MUTED": ["#FFFF00", "#FFFF00"]
   },
 
   "colours": {
-    "PRIMARY_DARK": "#303338"
+    "PRIMARY_DARK": "#141319"
   }
 }
