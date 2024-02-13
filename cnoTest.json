@@ -12,9 +12,10 @@
     "BACKGROUND_PRIMARY": ["#1C1D22", "#1C1D22"],
     "HEADER_PRIMARY": ["#9ED6F1", "#9ED6F1"],
     "HEADER_SECONDARY": ["#C7EAFA", "#C7EAFA"],
-    "TEXT_NORMAL": ["#C7EAFA", "#C7EAFA"],
+    "TEXT_NORMAL": ["#75A8C1", "#75A8C1"],
     "TEXT_MUTED": ["#A1B9C5", "#A1B9C5"],
-    "TEXT_LINK": ["#FFFF00", "#FFFF00"]
+    "TEXT_LINK": ["#57CAFF", "#57CAFF"],
+    "TEXT_LINK_LOW_SATURATION": ["#FFFF00", "#FFFF00"]
   },
 
   "colours": {
