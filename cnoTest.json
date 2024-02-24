@@ -62,11 +62,21 @@
     "CHANNELS_DEFAULT": ["#D3969E", "#D3969E"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#D5B098", "#D5B098"],
     "MENTION_FOREGROUND": ["#CDB6D2", "#CDB6D2"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#0000ff"],
-    "INTERACTIVE_ACTIVE": ["#ff0000"],
-    "INTERACTIVE_HOVER": ["#00ff00"],
-    "INTERACTIVE_MUTED": ["#ffff00"],
-    "INTERACTIVE_NORMAL": ["#00ffff"]
+    "SPOILER_HIDDEN_BACKGROUND": ["#964B00", "#964B00"],
+    "INTERACTIVE_ACTIVE": ["#CDB6D2", "#CDB6D2"],
+    "INTERACTIVE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "rgba(255, 255, 255, 0.02)"
+    ],
+    "INTERACTIVE_MUTED": [
+      "rgba(255, 255, 255, 0.15)",
+      "rgba(255, 255, 255, 0.15)"
+    ],
+    "INTERACTIVE_NORMAL": ["#D3969E", "#D3969E"],
+    "TEXT_DANGER": ["#ffff00"],
+    "TEXT_PRIMARY": ["#ff0000"],
+    "TEXT_SECONDARY": ["#00ff00"],
+    "ANDROID_RIPPLE": ["#0000ff"]
   },
 
   "colours": {
