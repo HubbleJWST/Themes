@@ -17,7 +17,10 @@
     "TEXT_LINK": ["#bb9fc1", "#bb9fc1"],
     "TEXT_LINK_LOW_SATURATION": ["#bb9fc1", "#bb9fc1"],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#b8747d", "#b8747d"],
-    "REDESIGN_CHANNEL_NAME_TEXT": ["#ffff00", "#ffff00"]
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#b99279", "#b99279"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#ffff00", "#ffff00"],
+    "BACKGROUND_ACCENT": ["#00FF00", "#00FF00"],
+    "BACKGROUND_SECONDARY": ["#FF0000", "#FF0000"]
   },
 
   "colours": {
