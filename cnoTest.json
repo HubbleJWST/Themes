@@ -63,10 +63,7 @@
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#D5B098", "#D5B098"],
     "MENTION_FOREGROUND": ["#CDB6D2", "#CDB6D2"],
     "SPOILER_HIDDEN_BACKGROUND": ["#964B00", "#964B00"],
-    "INTERACTIVE_ACTIVE": [
-      "rgba(255, 255, 255, 0.15)",
-      "rgba(255, 255, 255, 0.15)"
-    ],
+    "INTERACTIVE_ACTIVE": ["#222425", "#222425"],
     "INTERACTIVE_HOVER": [
       "rgba(255, 255, 255, 0.02)",
       "rgba(255, 255, 255, 0.02)"
