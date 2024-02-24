@@ -63,7 +63,10 @@
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#D5B098", "#D5B098"],
     "MENTION_FOREGROUND": ["#CDB6D2", "#CDB6D2"],
     "SPOILER_HIDDEN_BACKGROUND": ["#964B00", "#964B00"],
-    "INTERACTIVE_ACTIVE": ["#CDB6D2", "#CDB6D2"],
+    "INTERACTIVE_ACTIVE": [
+      "rgba(255, 255, 255, 0.15)",
+      "rgba(255, 255, 255, 0.15)"
+    ],
     "INTERACTIVE_HOVER": [
       "rgba(255, 255, 255, 0.02)",
       "rgba(255, 255, 255, 0.02)"
@@ -72,11 +75,13 @@
       "rgba(255, 255, 255, 0.15)",
       "rgba(255, 255, 255, 0.15)"
     ],
-    "INTERACTIVE_NORMAL": ["#D3969E", "#D3969E"],
-    "TEXT_DANGER": ["#ffff00"],
-    "TEXT_PRIMARY": ["#ff0000"],
-    "TEXT_SECONDARY": ["#00ff00"],
-    "ANDROID_RIPPLE": ["#0000ff"]
+    "INTERACTIVE_NORMAL": ["#CDB6D2", "#CDB6D2"],
+    "TEXT_DANGER": ["#ff6666"],
+    "TEXT_PRIMARY": ["#D3D4D6", "#D3D4D6"],
+    "TEXT_SECONDARY": ["#A4A8A9", "#A4A8A9"],
+    "BACKGROUND_MENTIONED": ["ff0000"],
+    "BACKGROUND_MENTIONED_HOVER": ["#ffff00"],
+    "KEYBOARD": ["#00ff00"]
   },
 
   "colours": {
