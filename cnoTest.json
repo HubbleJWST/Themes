@@ -37,10 +37,7 @@
     "BORDER_STRONG": ["#D3969E", "#D3969E"],
     "BORDER_SUBTLE": ["#313435", "#313435"],
     "CARD_SECONDARY_BG": ["#191b1d", "#191b1d"],
-    "CARD_PRIMARY_BG": ["#191b1d", "#191b1d"],
-    "BACKGROUND_SECONDARY_ALT": ["#ff0000"],
-    "BACKGROUND_TERTIARY": ["#0000ff"],
-    "CHANNEL_ICON": ["#00ff00"]
+    "CARD_PRIMARY_BG": ["#191b1d", "#191b1d"]
   },
 
   "colours": {
