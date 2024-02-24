@@ -28,12 +28,12 @@
     "BACKGROUND_MOBILE_PRIMARY": ["#191b1d", "#191b1d"],
     "BACKGROUND_MOBILE_SECONDARY": ["#222425", "#222425"],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "hsla(0, 0%, 85%, 0.1)",
-      "hsla(0, 0%, 85%, 0.1)"
+      "hsla(0, 0%, 50%, 0.2)",
+      "hsla(0, 0%, 50%, 0.2)"
     ],
     "BACKGROUND_MODIFIER_ACCENT_2": [
-      "hsla(0, 0%, 85%, 0.1)",
-      "hsla(0, 0%, 85%, 0.1)"
+      "hsla(0, 0%, 50%, 0.2)",
+      "hsla(0, 0%, 50%, 0.2)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "rgba(255, 255, 255, 0.03)",
@@ -57,12 +57,16 @@
     "CARD_SECONDARY_BG": ["#191b1d", "#191b1d"],
     "CARD_PRIMARY_BG": ["#191b1d", "#191b1d"],
     "BACKGROUND_SECONDARY_ALT": ["#0E0F10", "#0E0F10"],
-    "BACKGROUND_TERTIARY": ["#222425", "#222425"],
+    "BACKGROUND_TERTIARY": ["#0E0F10", "#0E0F10"],
     "CHANNEL_ICON": ["#D5B098", "#D5B098"],
-    "CHANNELS_DEFAULT": ["#ff0000"],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#ffff00"],
-    "MENTION_FOREGROUND": ["#00ff00"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#00000ff"]
+    "CHANNELS_DEFAULT": ["#D3969E", "#D3969E"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#D5B098", "#D5B098"],
+    "MENTION_FOREGROUND": ["#CDB6D2", "#CDB6D2"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#0000ff"],
+    "INTERACTIVE_ACTIVE": ["#ff0000"],
+    "INTERACTIVE_HOVER": ["#00ff00"],
+    "INTERACTIVE_MUTED": ["#ffff00"],
+    "INTERACTIVE_NORMAL": ["#00ffff"]
   },
 
   "colours": {
