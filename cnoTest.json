@@ -15,10 +15,11 @@
     "TEXT_NORMAL": ["#b4b5b7", "#b4b5b7"],
     "TEXT_MUTED": ["#828586", "#828586"],
     "TEXT_LINK": ["#bb9fc1", "#bb9fc1"],
-    "TEXT_LINK_LOW_SATURATION": ["#FFFF00", "#FFFF00"]
+    "TEXT_LINK_LOW_SATURATION": ["#bb9fc1", "#bb9fc1"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#FFFF00", "#FFFF00"]
   },
 
   "colours": {
-    "PRIMARY_DARK": "#FFFF00"
+    "PRIMARY_DARK": "#191b1d"
   }
 }
