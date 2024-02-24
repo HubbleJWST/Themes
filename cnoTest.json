@@ -16,7 +16,8 @@
     "TEXT_MUTED": ["#828586", "#828586"],
     "TEXT_LINK": ["#bb9fc1", "#bb9fc1"],
     "TEXT_LINK_LOW_SATURATION": ["#bb9fc1", "#bb9fc1"],
-    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#FFFF00", "#FFFF00"]
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#b8747d", "#b8747d"],
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#ffff00", "#ffff00"]
   },
 
   "colours": {
