@@ -28,12 +28,12 @@
     "BACKGROUND_MOBILE_PRIMARY": ["#191b1d", "#191b1d"],
     "BACKGROUND_MOBILE_SECONDARY": ["#222425", "#222425"],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "rgba(255, 255, 255, 0.02)",
-      "rgba(255, 255, 255, 0.02)"
+      "rgba(255, 255, 255, 0.25)",
+      "rgba(255, 255, 255, 0.25)"
     ],
     "BACKGROUND_MODIFIER_ACCENT_2": [
-      "rgba(255, 255, 255, 0.02)",
-      "rgba(255, 255, 255, 0.02)"
+      "rgba(255, 255, 255, 0.25)",
+      "rgba(255, 255, 255, 0.25)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "rgba(255, 255, 255, 0.03)",
@@ -87,11 +87,23 @@
     "BACKGROUND_MENTIONED_HOVER": ["#CDB6D2", "#CDB6D2"],
     "KEYBOARD": ["#191b1d", "#191b1d"],
     "CHANNELTEXTAREA_BACKGROUND": ["#ffff00"],
-    "CHAT_BACKGROUND": ["#ff0000"],
-    "CHAT_BORDER": ["#00ff00"]
+    "CHAT_BACKGROUND": ["#191b1d", "#191b1d"]
   },
 
-  "colours": {
-    "PRIMARY_DARK": "#191b1d"
+  "rawColors": {
+    "PRIMARY_DARK": "#191b1d",
+    "PRIMARY_100": "#E4D4CC",
+    "PRIMARY_230": "#F4EAE5",
+    "PRIMARY_300": "#735682",
+    "PRIMARY_360": "#7C6766",
+    "PRIMARY_400": "#735682",
+    "PRIMARY_460": "#26233a",
+    "PRIMARY_500": "#E3C5C5",
+    "PRIMARY_600": "#281f2b",
+    "PRIMARY_630": "#231b27",
+    "PRIMARY_645": "#74646d",
+    "PRIMARY_660": "#231b27",
+    "PRIMARY_700": "#312438",
+    "PRIMARY_800": "#231b27"
   }
 }
