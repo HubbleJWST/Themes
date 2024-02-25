@@ -63,7 +63,7 @@
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#D5B098", "#D5B098"],
     "MENTION_FOREGROUND": ["#CDB6D2", "#CDB6D2"],
     "SPOILER_HIDDEN_BACKGROUND": ["#964B00", "#964B00"],
-    "INTERACTIVE_ACTIVE": ["#6C7274", "#6C7274"],
+    "INTERACTIVE_ACTIVE": ["#A4A8A9", "#A4A8A9"],
     "INTERACTIVE_HOVER": [
       "rgba(255, 255, 255, 0.02)",
       "rgba(255, 255, 255, 0.02)"
@@ -98,12 +98,12 @@
     "STATUS_GREEN_600": "#2B2E32",
     "STATUS_YELLOW": "#2B2E32",
     "BRAND_260": "#4a009f",
-    "BRAND_360": "rgba(213, 176, 152, 0.75)",
+    "BRAND_360": "rgba(213, 176, 152, 0.55)",
     "BRAND_500": "#2B2E32",
     "BRAND_560": "#222425",
     "PLUM_1": "#4a009f",
-    "PLUM_10": "rgba(213, 176, 152, 0.75)",
-    "PLUM_11": "rgba(213, 176, 152, 0.55)",
+    "PLUM_10": "rgba(213, 176, 152, 0.55)",
+    "PLUM_11": "rgba(213, 176, 152, 0.45)",
     "PLUM_13": "rgba(255, 255, 255, 0.02)",
     "PLUM_15": "#4a009f",
     "PLUM_16": "rgba(255, 255, 255, 0.02)",
@@ -166,7 +166,7 @@
     "YELLOW_200": "#fef118",
     "YELLOW_230": "#fef118",
     "YELLOW_260": "#fef118",
-    "YELLOW_300": "#2B2E32",
+    "YELLOW_300": "#A4A8A9",
     "YELLOW_330": "#fef118",
     "YELLOW_345": "#fef118",
     "YELLOW_360": "#fef118",
@@ -186,7 +186,7 @@
     "YELLOW_830": "#fef118",
     "YELLOW_860": "#fef118",
     "YELLOW_900": "#fef118",
-    "WHITE_500": "#A4A8A9",
+    "WHITE_500": "#D3D4D6",
     "WHITE_630": "#4a009f"
   },
   "color": "#D3969E"
